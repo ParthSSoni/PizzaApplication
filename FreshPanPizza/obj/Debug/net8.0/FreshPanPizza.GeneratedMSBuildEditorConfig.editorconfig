@@ -1,0 +1,975 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FreshPanPizza
+build_property.RootNamespace = FreshPanPizza
+build_property.ProjectDir = D:\PizzaApplication\FreshPanPizza\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\PizzaApplication\FreshPanPizza
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_boxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ib3hlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_colored_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9jb2xvcmVkX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_compact_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9jb21wYWN0X3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_horizontal_colored_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsX2NvbG9yZWRfc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_horizontal_topbarlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsX3RvcGJhcmxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_hprozontal_boxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ocHJvem9udGFsX2JveGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_icon_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9pY29uX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_light_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9saWdodF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/Layouts/_layout_preloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9wcmVsb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/PizzaCustomLayouts/_LayoutPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFBpenphQ3VzdG9tTGF5b3V0c1xfTGF5b3V0UGl6emFDdXN0b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/PizzaCustomLayouts/_right_sidebarPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFBpenphQ3VzdG9tTGF5b3V0c1xfcmlnaHRfc2lkZWJhclBpenphQ3VzdG9tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/PizzaCustomLayouts/_topbarPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFBpenphQ3VzdG9tTGF5b3V0c1xfdG9wYmFyUGl6emFDdXN0b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_head_css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9oZWFkX2Nzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9ob3Jpem9udGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_layout_ico_loading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9sYXlvdXRfaWNvX2xvYWRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_page_title.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9wYWdlX3RpdGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_right_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9yaWdodF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_title_meta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF90aXRsZV9tZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF90b3BiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/Shared/_vendor_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF92ZW5kb3Jfc2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/CustomLayouts/_layout_hprozontal_boxed_custom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xDdXN0b21MYXlvdXRzXF9sYXlvdXRfaHByb3pvbnRhbF9ib3hlZF9jdXN0b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_boxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2JveGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_colored_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2NvbG9yZWRfc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_compact_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2NvbXBhY3Rfc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2hvcml6b250YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_horizontal_colored_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2hvcml6b250YWxfY29sb3JlZF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_horizontal_topbarlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2hvcml6b250YWxfdG9wYmFybGlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_hprozontal_boxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2hwcm96b250YWxfYm94ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_icon_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2ljb25fc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_light_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X2xpZ2h0X3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/Layouts/_layout_preloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcTGF5b3V0c1xfbGF5b3V0X3ByZWxvYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/PizzaCustomLayouts/_footerPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcUGl6emFDdXN0b21MYXlvdXRzXF9mb290ZXJQaXp6YUN1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/PizzaCustomLayouts/_horizontalCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcUGl6emFDdXN0b21MYXlvdXRzXF9ob3Jpem9udGFsQ3VzdG9tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/PizzaCustomLayouts/_horizontalCustomONE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcUGl6emFDdXN0b21MYXlvdXRzXF9ob3Jpem9udGFsQ3VzdG9tT05FLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/PizzaCustomLayouts/_LayoutPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcUGl6emFDdXN0b21MYXlvdXRzXF9MYXlvdXRQaXp6YUN1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/PizzaCustomLayouts/_right_sidebarPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcUGl6emFDdXN0b21MYXlvdXRzXF9yaWdodF9zaWRlYmFyUGl6emFDdXN0b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/PizzaCustomLayouts/_topbarPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcUGl6emFDdXN0b21MYXlvdXRzXF90b3BiYXJQaXp6YUN1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX0JsYW5rTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX2Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_head_css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX2hlYWRfY3NzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX2hvcml6b250YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_layout_ico_loading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX2xheW91dF9pY29fbG9hZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_page_title.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX3BhZ2VfdGl0bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_right_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX3JpZ2h0X3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_title_meta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX3RpdGxlX21ldGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX3RvcGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/Shared/_vendor_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xTaGFyZWRcX3ZlbmRvcl9zY3JpcHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Areas/User/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Account/LogOutComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dPdXRDb21wbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Account/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Account/UnAuthorize.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVbkF1dGhvcml6ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/ConfirmMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDb25maXJtTWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/ConfirmMail2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDb25maXJtTWFpbDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/EmailVerification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxFbWFpbFZlcmlmaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/EmailVerification2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxFbWFpbFZlcmlmaWNhdGlvbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/LockScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2NrU2NyZWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/LockScreen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2NrU2NyZWVuMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/Login2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/Recoverpw.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWNvdmVycHcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/Recoverpw2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWNvdmVycHcyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/Register2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlcjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/TwoStepVerification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxUd29TdGVwVmVyaWZpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Auth/TwoStepVerification2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxUd29TdGVwVmVyaWZpY2F0aW9uMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Blog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Blog/Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Blog/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Calendar/CalendarFull.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJcQ2FsZW5kYXJGdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Calendar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Candidate/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Candidate/Overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXE92ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/Apex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcQXBleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/Chartjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcQ2hhcnRqcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/ChartTui.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcQ2hhcnRUdWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/Echart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcRWNoYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/Flot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcRmxvdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/Knob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcS25vYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chart/Sparkline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcU3BhcmtsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Contacts/ContactsGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ29udGFjdHNHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Contacts/ContactsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ29udGFjdHNMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Contacts/ContactsProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ29udGFjdHNQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoBuySell.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b0J1eVNlbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoExchange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b0V4Y2hhbmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoIcoLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b0ljb0xhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoKycApplication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b0t5Y0FwcGxpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoLanding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b0xhbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b09yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Crypto/CryptoWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXENyeXB0b1dhbGxldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Dashboard/DashboardBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZEJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Dashboard/DashboardCrypto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZENyeXB0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Dashboard/Dashboardjob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZGpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Dashboard/DashboardSaas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZFNhYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceAddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUFkZFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUNhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceCheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUNoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZUN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZU9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVByb2R1Y3REZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Ecommerce/EcommerceShops.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEVjb21tZXJjZVNob3BzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Email/EmailInbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRW1haWxJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Email/EmailRead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRW1haWxSZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Email/EmailTemplateAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRW1haWxUZW1wbGF0ZUFsZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Email/EmailTemplateBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRW1haWxUZW1wbGF0ZUJhc2ljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Email/EmailTemplateBilling.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxcRW1haWxUZW1wbGF0ZUJpbGxpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/FileManager/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZU1hbmFnZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormAdvanced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtQWR2YW5jZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormEditors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtRWRpdG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormElements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtRWxlbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtTGF5b3V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormMak.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtTWFrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormRepeater.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtUmVwZWF0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormUploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtVXBsb2Fkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormValidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtVmFsaWRhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormWizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtV2l6YXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Form/FormXeditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtWGVkaXRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Icon/IconBoxicons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvblxJY29uQm94aWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Icon/IconDripicons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvblxJY29uRHJpcGljb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Icon/IconFontAwesome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvblxJY29uRm9udEF3ZXNvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Icon/IconMaterialDesign.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvblxJY29uTWF0ZXJpYWxEZXNpZ24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Invoices/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Invoices/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Job/apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXGFwcGx5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Job/categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXGNhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Job/details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXGRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Job/grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXGdyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Job/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutBoxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRCb3hlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutColoredSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRDb2xvcmVkU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutCompactSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRDb21wYWN0U2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutHoriBoxedWidth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRIb3JpQm94ZWRXaWR0aC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutHoriColoredHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRIb3JpQ29sb3JlZEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutHoriPreloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRIb3JpUHJlbG9hZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutHorizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRIb3Jpem9udGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutPreloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRQcmVsb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutScrollable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRTY3JvbGxhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutsHoriScrollable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRzSG9yaVNjcm9sbGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutsHoriTopbarLight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRzSG9yaVRvcGJhckxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutsIconSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRzSWNvblNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutsLightSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRzTGlnaHRTaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Layouts/LayoutVertical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xMYXlvdXRWZXJ0aWNhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Maps/MapGoogle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xNYXBHb29nbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Maps/MapLeaflet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xNYXBMZWFmbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Maps/MapVector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xNYXBWZWN0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/Page404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZTQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/Page500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZTUwMC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/PageComingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZUNvbWluZ3Nvb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/PageFaqs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZUZhcXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/PageMaintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZU1haW50ZW5hbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/PagePricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZVByaWNpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/PageStarter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZVN0YXJ0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Pages/PageTimeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUGFnZVRpbWVsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Projects/ProjectCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Projects/ProjectGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdEdyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Projects/ProjectList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Projects/ProjectOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcUHJvamVjdE92ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_boxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ib3hlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_colored_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9jb2xvcmVkX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_compact_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9jb21wYWN0X3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_horizontal_colored_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsX2NvbG9yZWRfc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_horizontal_topbarlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ob3Jpem9udGFsX3RvcGJhcmxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_hprozontal_boxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ocHJvem9udGFsX2JveGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_hprozontal_boxed_Custom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9ocHJvem9udGFsX2JveGVkX0N1c3RvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_icon_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9pY29uX3NpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_light_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9saWdodF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/Layouts/_layout_preloader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHNcX2xheW91dF9wcmVsb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/PizzaCustomLayouts/_LayoutPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBpenphQ3VzdG9tTGF5b3V0c1xfTGF5b3V0UGl6emFDdXN0b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/PizzaCustomLayouts/_right_sidebarPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBpenphQ3VzdG9tTGF5b3V0c1xfcmlnaHRfc2lkZWJhclBpenphQ3VzdG9tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/PizzaCustomLayouts/_topbarPizzaCustom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBpenphQ3VzdG9tTGF5b3V0c1xfdG9wYmFyUGl6emFDdXN0b20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_BlankLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbGFua0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_head_css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkX2Nzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_horizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ob3Jpem9udGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_layout_ico_loading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sYXlvdXRfaWNvX2xvYWRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_page_title.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYWdlX3RpdGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_right_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9yaWdodF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_title_meta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90aXRsZV9tZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_topbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90b3BiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Shared/_vendor_scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF92ZW5kb3Jfc2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tables/TableBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlQmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tables/TableDatatable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlRGF0YXRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tables/TableEditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlRWRpdGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tables/TableResponsive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXFRhYmxlUmVzcG9uc2l2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tasks/TaskCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcVGFza0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tasks/TaskKanban.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcVGFza0thbmJhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/Tasks/TaskList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcVGFza0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Alerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQWxlcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ2Fyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Colors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcQ29sb3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcRHJvcGRvd25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/General.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcR2VuZXJhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcR3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Images.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcSW1hZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Lightbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcTGlnaHRib3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Modals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcTW9kYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcTm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/OffCanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcT2ZmQ2FudmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Placeholders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcUGxhY2Vob2xkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Progressbars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcUHJvZ3Jlc3NiYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Rangeslider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcUmFuZ2VzbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Rating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcUmF0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/SessionTimeout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcU2Vzc2lvblRpbWVvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/SweetAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcU3dlZXRBbGVydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/TabsAccordions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcVGFic0FjY29yZGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Toasts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcVG9hc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcVHlwb2dyYXBoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Utilities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcVXRpbGl0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/UI/Video.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlcVmlkZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PizzaApplication/FreshPanPizza/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
